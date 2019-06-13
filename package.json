@@ -1,0 +1,47 @@
+{
+  "name": "sufee-admin-dashboard",
+  "version": "1.0.0",
+  "description": "Sufee Admin Dashboard",
+  "main": "assets/js/main.js",
+  "scripts": {
+    "test": "test",
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:sarangaem/sufee-admin-dashboard.git"
+  },
+  "keywords": [
+    "html",
+    "js",
+    "css"
+  ],
+  "author": "Aigars Silkalns",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-lintspaces": "^0.8.3",
+    "grunt-pleeease": "^1.4.0",
+    "grunt-sass": "^3.0.1",
+    "node-sass": "^4.9.3"
+  },
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "^3.0.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
