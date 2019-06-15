@@ -10,14 +10,6 @@ Do a npm run build. Copy the contents of the /build folder into the /server/publ
 
 ![Sufee admin dashboard template preview](https://colorlib.com/wp/wp-content/uploads/sites/2/sufee-free-modern-admin-dashboard-template.jpg)
 
-### Demo Site: [Here](https://colorlib.com/polygon/sufee/index.html)
-
-### TOC
-- [Built With](#built-with)
-- [Changelog](#changelog)
-- [Authors](#authors)
-- [License](#license)
-
 ### Built With
 
 - [Sass](http://sass-lang.com/)
